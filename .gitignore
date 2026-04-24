@@ -1,1 +1,8 @@
-*.env
+# Environment variables
+.env
+
+# OAuth tokens
+tokens/token.json
+
+# (optional) ignore entire tokens folder
+tokens/
